@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Ansible
+*.retry
+
+# SSH Keys
+*.pem
+project5-key
+
+# Python
+venv/
+__pycache__/
+
+# OS
+.DS_Store
